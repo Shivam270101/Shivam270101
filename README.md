@@ -36,7 +36,7 @@ Git | GitHub | Postman | Docker | VS Code
 
 ### 🤖 AI Resume Analyzer
 AI-powered application that analyzes resumes against job descriptions
-and provides match scores, missing skills and improvement suggestions.
+and provides match scores, missing skills and improvement suggestions. (Inprogress)
 
 **Tech:** React.js, FastAPI, MongoDB, LLM, RAG
 
