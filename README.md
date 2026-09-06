@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Shivam Ambekar
 
-<!--
-**Shivam270101/Shivam270101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer interested in Java, Python and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Full Stack Development
+- ☕ Java | Spring Boot
+- 🐍 Python | FastAPI
+- ⚛️ React.js
+- 🗄️ MySQL | MongoDB
+- 🤖 Generative AI | RAG | LLMs
+- 🔐 REST APIs | JWT Authentication
+
+## 🛠️ Tech Stack
+
+### Languages
+Java | Python | JavaScript | SQL
+
+### Backend
+Spring Boot | FastAPI | REST APIs
+
+### Frontend
+React.js | HTML | CSS | Bootstrap
+
+### Databases
+MySQL | MongoDB | PostgreSQL
+
+### GenAI
+LLMs | RAG | Prompt Engineering | Embeddings
+
+### Tools
+Git | GitHub | Postman | Docker | VS Code
+
+## 📌 Featured Projects
+
+### 🤖 AI Resume Analyzer
+AI-powered application that analyzes resumes against job descriptions
+and provides match scores, missing skills and improvement suggestions.
+
+**Tech:** React.js, FastAPI, MongoDB, LLM, RAG
+
+### 💰 AI Expense Tracker
+Personal finance management application with an AI financial assistant.
+
+**Tech:** React.js, FastAPI, MongoDB, Generative AI
+
+### 🏨 StayEasy
+Hostel booking application with user authentication and booking management.
+
+**Tech:** React.js, Java, Spring Boot, MySQL
+
+## 📫 Connect With Me
+
+- LinkedIn
+- GitHub
+- Email
+
+---
+
+⭐ Thanks for visiting my profile!
