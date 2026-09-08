@@ -6,8 +6,7 @@ I'm a Full Stack Developer interested in Java, Python and Generative AI.
 
 - 💻 Full Stack Development
 - ☕ Java | Spring Boot
-- 🐍 Python | FastAPI
-- ⚛️ React.js
+- ⚛️ React.js | Node.js
 - 🗄️ MySQL | MongoDB
 - 🤖 Generative AI | RAG | LLMs
 - 🔐 REST APIs | JWT Authentication
