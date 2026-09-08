@@ -33,11 +33,10 @@ Git | GitHub | Postman | Docker | VS Code
 
 ## 📌 Featured Projects
 
-### 🤖 AI Resume Analyzer
-AI-powered application that analyzes resumes against job descriptions
-and provides match scores, missing skills and improvement suggestions. (Inprogress)
+### Store Rating APP
+Store rating app 
 
-**Tech:** React.js, FastAPI, MongoDB, LLM, RAG
+**Tech:** React.js, Node.js, PostgreSQL, Express.js
 
 ### 💰 AI Expense Tracker
 Personal finance management application with an AI financial assistant.
