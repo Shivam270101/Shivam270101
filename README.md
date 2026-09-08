@@ -33,8 +33,8 @@ Git | GitHub | Postman | Docker | VS Code
 
 ## 📌 Featured Projects
 
-### Store Rating APP
-Store rating app 
+### RateHUB Store Rating Platform
+A full-stack web application allowing users to discover and rate stores. Built with Express.js, PostgreSQL, and React.
 
 **Tech:** React.js, Node.js, PostgreSQL, Express.js
 
