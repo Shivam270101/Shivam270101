@@ -3,10 +3,10 @@
 
 ### Full Stack Developer | Java | Spring Boot | React.js | Node.js | AI-Powered Applications
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shivam270101&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Shivam270101?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-</p>
+</p> -->
 
 ---
 
