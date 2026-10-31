@@ -12,12 +12,11 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Full Stack Developer with hands-on client project experience.
-- ☕ Interested in building applications using Java, Spring Boot and React.js.
+- 👨‍💻 Full Stack Developer with 1.5+ years of client project experience.
 - 🌱 Currently improving my skills in backend development, system design and cloud technologies.
 - 🤖 Exploring Generative AI, RAG and AI-powered application development.
 - 🛠️ Experienced with REST APIs, database integration and application development.
-- 🎯 Interested in developing scalable, user-friendly and real-world software solutions.
+- 🎯 Skilled in developing scalable, user-friendly and real-world software solutions.
 - 📍 Based in Pune, India.
 - 💼 Open to exciting software development opportunities.
 
