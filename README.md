@@ -104,7 +104,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shivamambekar27/" target="_blank">
+  <a href="https://www.linkedin.com/in/shivamambekar27/" target="[_blank](https://www.linkedin.com/in/shivamambekar27/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Shivam270101" target="_blank">
