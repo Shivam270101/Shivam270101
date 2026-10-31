@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Shivam Ambekar
 
-### Full Stack Developer | Java | Spring Boot | React.js | Node.js | AI-Powered Applications
+### Full Stack Developer | Java | Spring Boot | React.js | Node.js | AI-Powered Applications | Gen AI
 
 ---
 
