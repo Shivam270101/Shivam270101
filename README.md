@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Full Stack Developer with 1.5+ years of client project experience
+- 👨‍💻 Full Stack Developer to build scalable Application and 1 year Live client project experience.
 - 🌱 Currently improving my skills in backend development, system design and cloud technologies
 - 🤖 Exploring Generative AI, RAG and AI-powered application development
 - 🛠️ Experienced with REST APIs, database integration and application development
